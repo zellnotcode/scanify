@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "681690038346",
+    "project_id": "scantify-fbfd0",
+    "storage_bucket": "scantify-fbfd0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681690038346:android:a8c1ee6cde1a0f308526b3",
+        "android_client_info": {
+          "package_name": "com.example.scanify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASbw8Iu-Jfuun-Kbd52lu2AKtzP3ODjIs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
